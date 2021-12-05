@@ -1,4 +1,4 @@
-# Programmer un décompte utilisation du shield-grove
+# Programmer l'affichage d'un décompte 
 
 
 ## Créer un décompte au démarrage
